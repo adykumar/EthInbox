@@ -1,0 +1,19 @@
+{
+  "name": "ethinbox",
+  "version": "1.0.0",
+  "description": "My EthInbox proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adykumar/EthInbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adykumar/EthInbox/issues"
+  },
+  "homepage": "https://github.com/adykumar/EthInbox#readme"
+}
